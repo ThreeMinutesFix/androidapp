@@ -1,6 +1,19 @@
 [{
-	"SliderCatid": "1",
-	"id": "1",
-	"MovieName": "test",
-	"ImageUrl": "tt.jpg"
-}]
+		"SliderCatid": "1",
+		"id": "1",
+		"MovieName": "God not dead",
+		"ImageUrl": "https://www.pureflix.com/hubfs/awareness-content/gods-not-dead-series-pillar/GND-lp-open-graph-1200x650.jpg"
+	},
+	{
+		"SliderCatid": "1",
+		"id": "2",
+		"MovieName": "God not dead2",
+		"ImageUrl": "https://reporter.lcms.org/wp-content/uploads/2016/04/god-not-dead-RPT-IN.jpg"
+	},
+	{
+		"SliderCatid": "1",
+		"id": "3",
+		"MovieName": "God not dead- we the people",
+		"ImageUrl": "https://www.ccmmagazine.com/wp-content/uploads/2021/08/Gods-Not-Dead-We-the-People.png"
+	}
+]
